@@ -1,0 +1,3 @@
+# Client preview - not for indexing. See README.md before going public.
+User-agent: *
+Disallow: /

@@ -1,0 +1,13 @@
+# Vercel
+.vercel
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.idea/
+.vscode/
+
+# Nothing here is built on the server - the HTML and assets are committed
+node_modules/
